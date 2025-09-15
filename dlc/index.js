@@ -26,6 +26,14 @@
         "title": "Chilli",
         "buttons": [
             { "title": "Chilli ", "action": [75,0,4,4] }
+             ]
+    },
+    {
+        "file": "OLIVER.dlc", 
+        "title": "oliver... does it work???",
+        "buttons": [
+            { "title": "oliver... does it work???"", "action": [75,0,4,4] }
+
         ]
     }
 ]
