@@ -8,7 +8,7 @@
     },
     { 
         "file": "hacked.dlc", 
-        "title": "HACKED",
+        "title": "EXTRONDIMATE ALL HUMAEMNS",
         "buttons": [
             { "title": "Hacked 1", "action": [75,0,3,4] },
             { "title": "Hacked 2", "action": [75,0,4,4] }
@@ -32,7 +32,15 @@
         "file": "OLIVER.dlc", 
         "title": "oliver... does it work???",
         "buttons": [
-            { "title": "oliver... does it work???"", "action": [75,0,4,4] }
+            { "title": "oliver... does it work???", "action": [75,0,4,4] }
+
+        ]
+        },
+    {
+        "file": "fu001680.dlc", 
+        "title": "i still dont know!",
+        "buttons": [
+            { "title": "i still dont know!", "action": [75,0,4,4] }
 
         ]
     }
