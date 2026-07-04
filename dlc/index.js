@@ -43,5 +43,9 @@
             { "title": "i still dont know!", "action": [75,0,4,4] }
 
         ]
-    }
+    },    {
+        "file": "Waaagh.dlc", 
+        "title": "Waaagh",
+        "buttons": [
+            { "title": "WAAAGH!!", "action": [75,0,0,2] }
 ]
